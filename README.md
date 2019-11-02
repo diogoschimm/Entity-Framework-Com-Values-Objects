@@ -247,3 +247,15 @@ Para configurar o Entity Framework foi criado o projeto ValuesObjectsEntityFrame
     }
 
 ```
+
+## Executando o Projeto
+
+Ao executar o projeto Console, Inclua ou Liste os Clientes:
+
+![image](https://user-images.githubusercontent.com/30643035/68065788-6bb17800-fd04-11e9-91a9-17b9fc604e7e.png)
+
+![image](https://user-images.githubusercontent.com/30643035/68065800-a0253400-fd04-11e9-8788-0a6b88b9a5e6.png)
+
+![image](https://user-images.githubusercontent.com/30643035/68065803-ad422300-fd04-11e9-9542-e9d1781ef1c3.png)
+
+![image](https://user-images.githubusercontent.com/30643035/68065807-c054f300-fd04-11e9-8a52-7f46aa8d9d20.png)
