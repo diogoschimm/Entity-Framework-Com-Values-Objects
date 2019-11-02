@@ -3,17 +3,22 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29411.108
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValuesObjectsEntityFramework.Presentation.ConsoleApp", "ValuesObjectsEntityFramework.Presentation.ConsoleApp\ValuesObjectsEntityFramework.Presentation.ConsoleApp.csproj", "{41B56DE5-A8CC-4EA4-8DF9-DD1A49A9C3FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValuesObjectsEntityFramework.Presentation.ConsoleApp", "ValuesObjectsEntityFramework.Presentation.ConsoleApp\ValuesObjectsEntityFramework.Presentation.ConsoleApp.csproj", "{41B56DE5-A8CC-4EA4-8DF9-DD1A49A9C3FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValuesObjectsEntityFramework.Domain", "ValuesObjectsEntityFramework.Domain\ValuesObjectsEntityFramework.Domain.csproj", "{8C45E725-2F67-4B25-8E6E-28F2D14F25FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValuesObjectsEntityFramework.Domain", "ValuesObjectsEntityFramework.Domain\ValuesObjectsEntityFramework.Domain.csproj", "{8C45E725-2F67-4B25-8E6E-28F2D14F25FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValuesObjectsEntityFramework.Infra.Data", "ValuesObjectsEntityFramework.Infra.Data\ValuesObjectsEntityFramework.Infra.Data.csproj", "{69F80C1D-541D-4D43-80A6-C7355D6D21F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValuesObjectsEntityFramework.Infra.Data", "ValuesObjectsEntityFramework.Infra.Data\ValuesObjectsEntityFramework.Infra.Data.csproj", "{69F80C1D-541D-4D43-80A6-C7355D6D21F3}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Apresentação", "Apresentação", "{B565DBF1-3027-40F5-BCAF-4C1AB54ABCF1}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domínio", "Domínio", "{3EDCF44A-704B-4252-ADC5-879DBD9BED9F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infraestrutura", "Infraestrutura", "{25173A1A-8CE7-45F4-ADA6-90F9AD0883F4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C2545F0C-3DD7-4DB9-B1B5-957CEBC0BFDA}"
+	ProjectSection(SolutionItems) = preProject
+		ScriptBD.sql = ScriptBD.sql
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
